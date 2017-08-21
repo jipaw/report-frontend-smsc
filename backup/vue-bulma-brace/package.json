@@ -1,0 +1,99 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-bulma-brace@^0.1.0",
+        "scope": null,
+        "escapedName": "vue-bulma-brace",
+        "name": "vue-bulma-brace",
+        "rawSpec": "^0.1.0",
+        "spec": ">=0.1.0 <0.2.0",
+        "type": "range"
+      },
+      "/root/Workspace/HTTP-REPORT"
+    ]
+  ],
+  "_from": "vue-bulma-brace@>=0.1.0 <0.2.0",
+  "_id": "vue-bulma-brace@0.1.0",
+  "_inCache": true,
+  "_location": "/vue-bulma-brace",
+  "_nodeVersion": "7.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/vue-bulma-brace-0.1.0.tgz_1488161583435_0.08181833126582205"
+  },
+  "_npmUser": {
+    "name": "fundon",
+    "email": "cfddream@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-bulma-brace@^0.1.0",
+    "scope": null,
+    "escapedName": "vue-bulma-brace",
+    "name": "vue-bulma-brace",
+    "rawSpec": "^0.1.0",
+    "spec": ">=0.1.0 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bulma-brace/-/vue-bulma-brace-0.1.0.tgz",
+  "_shasum": "c56483b93dc2545eee041ec0c5940af49e718c5f",
+  "_shrinkwrap": null,
+  "_spec": "vue-bulma-brace@^0.1.0",
+  "_where": "/root/Workspace/HTTP-REPORT",
+  "author": {
+    "name": "Luventa Pan"
+  },
+  "bugs": {
+    "url": "https://github.com/vue-bulma/brace/issues"
+  },
+  "dependencies": {
+    "brace": "^0.10.0"
+  },
+  "description": "Code editor powered by Vuejs and browserify Ace.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c56483b93dc2545eee041ec0c5940af49e718c5f",
+    "tarball": "https://registry.npmjs.org/vue-bulma-brace/-/vue-bulma-brace-0.1.0.tgz"
+  },
+  "gitHead": "0ef092455078ccdce0aef4a52679727d2aef8c34",
+  "homepage": "https://github.com/vue-bulma/brace#readme",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-brace",
+    "brace"
+  ],
+  "license": "MIT",
+  "main": "src/Brace.vue",
+  "maintainers": [
+    {
+      "name": "fundon",
+      "email": "cfddream@gmail.com"
+    },
+    {
+      "name": "luventa",
+      "email": "silentmic@qq.com"
+    }
+  ],
+  "name": "vue-bulma-brace",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "bulma": ">=0.3",
+    "vue": ">=2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-bulma/brace.git"
+  },
+  "scripts": {},
+  "version": "0.1.0"
+}

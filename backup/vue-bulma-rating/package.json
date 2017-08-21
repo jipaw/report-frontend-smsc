@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-bulma-rating@^1.0.1",
+        "scope": null,
+        "escapedName": "vue-bulma-rating",
+        "name": "vue-bulma-rating",
+        "rawSpec": "^1.0.1",
+        "spec": ">=1.0.1 <2.0.0",
+        "type": "range"
+      },
+      "/root/Workspace/HTTP-REPORT"
+    ]
+  ],
+  "_from": "vue-bulma-rating@>=1.0.1 <2.0.0",
+  "_id": "vue-bulma-rating@1.0.1",
+  "_inCache": true,
+  "_location": "/vue-bulma-rating",
+  "_nodeVersion": "7.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/vue-bulma-rating-1.0.1.tgz_1488157882999_0.8908464987762272"
+  },
+  "_npmUser": {
+    "name": "fundon",
+    "email": "cfddream@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-bulma-rating@^1.0.1",
+    "scope": null,
+    "escapedName": "vue-bulma-rating",
+    "name": "vue-bulma-rating",
+    "rawSpec": "^1.0.1",
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bulma-rating/-/vue-bulma-rating-1.0.1.tgz",
+  "_shasum": "34b25fa29d24249d6074e28db95c47b9d00d2e58",
+  "_shrinkwrap": null,
+  "_spec": "vue-bulma-rating@^1.0.1",
+  "_where": "/root/Workspace/HTTP-REPORT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/vue-bulma/rating/issues"
+  },
+  "dependencies": {
+    "starability": "1.0.5"
+  },
+  "description": "Rating component is based on starability for Vue Bulma",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "34b25fa29d24249d6074e28db95c47b9d00d2e58",
+    "tarball": "https://registry.npmjs.org/vue-bulma-rating/-/vue-bulma-rating-1.0.1.tgz"
+  },
+  "gitHead": "54ce3f348ebdf8ccc40398a62929a399bbff1582",
+  "homepage": "https://github.com/vue-bulma/rating#readme",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-rating",
+    "starability",
+    "rating",
+    "rate"
+  ],
+  "license": "MIT",
+  "main": "src/Rating.vue",
+  "maintainers": [
+    {
+      "name": "fundon",
+      "email": "cfddream@gmail.com"
+    }
+  ],
+  "name": "vue-bulma-rating",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "vue": ">=2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-bulma/rating.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}

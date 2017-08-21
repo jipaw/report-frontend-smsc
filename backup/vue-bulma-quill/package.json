@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-bulma-quill@0.0.1",
+        "scope": null,
+        "escapedName": "vue-bulma-quill",
+        "name": "vue-bulma-quill",
+        "rawSpec": "0.0.1",
+        "spec": "0.0.1",
+        "type": "version"
+      },
+      "/root/Workspace/HTTP-REPORT"
+    ]
+  ],
+  "_from": "vue-bulma-quill@0.0.1",
+  "_id": "vue-bulma-quill@0.0.1",
+  "_inCache": true,
+  "_location": "/vue-bulma-quill",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/vue-bulma-quill-0.0.1.tgz_1476979685575_0.04808382713235915"
+  },
+  "_npmUser": {
+    "name": "fundon",
+    "email": "cfddream@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-bulma-quill@0.0.1",
+    "scope": null,
+    "escapedName": "vue-bulma-quill",
+    "name": "vue-bulma-quill",
+    "rawSpec": "0.0.1",
+    "spec": "0.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bulma-quill/-/vue-bulma-quill-0.0.1.tgz",
+  "_shasum": "aa2993327af9cefafdf62cb2303219646962297f",
+  "_shrinkwrap": null,
+  "_spec": "vue-bulma-quill@0.0.1",
+  "_where": "/root/Workspace/HTTP-REPORT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com",
+    "url": "fundon.me"
+  },
+  "bugs": {
+    "url": "https://github.com/vue-bulma/quill/issues"
+  },
+  "dependencies": {
+    "quill": "1.1.0"
+  },
+  "description": "Your powerful, rich text editor for Vue",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "aa2993327af9cefafdf62cb2303219646962297f",
+    "tarball": "https://registry.npmjs.org/vue-bulma-quill/-/vue-bulma-quill-0.0.1.tgz"
+  },
+  "gitHead": "aedbcdb6f847b67bcfe63adbe0e6c4d4854a854a",
+  "homepage": "https://github.com/vue-bulma/quill#readme",
+  "keywords": [
+    "vue",
+    "quill",
+    "editor",
+    "rich text",
+    "wysiwyg"
+  ],
+  "license": "MIT",
+  "main": "src/Quill.vue",
+  "maintainers": [
+    {
+      "name": "fundon",
+      "email": "cfddream@gmail.com"
+    }
+  ],
+  "name": "vue-bulma-quill",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-bulma/quill.git"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}

@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-bulma-chartist@^1.1.0",
+        "scope": null,
+        "escapedName": "vue-bulma-chartist",
+        "name": "vue-bulma-chartist",
+        "rawSpec": "^1.1.0",
+        "spec": ">=1.1.0 <2.0.0",
+        "type": "range"
+      },
+      "/root/Workspace/HTTP-REPORT"
+    ]
+  ],
+  "_from": "vue-bulma-chartist@>=1.1.0 <2.0.0",
+  "_id": "vue-bulma-chartist@1.1.0",
+  "_inCache": true,
+  "_location": "/vue-bulma-chartist",
+  "_nodeVersion": "7.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/vue-bulma-chartist-1.1.0.tgz_1488161381350_0.2503220736980438"
+  },
+  "_npmUser": {
+    "name": "fundon",
+    "email": "cfddream@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-bulma-chartist@^1.1.0",
+    "scope": null,
+    "escapedName": "vue-bulma-chartist",
+    "name": "vue-bulma-chartist",
+    "rawSpec": "^1.1.0",
+    "spec": ">=1.1.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bulma-chartist/-/vue-bulma-chartist-1.1.0.tgz",
+  "_shasum": "12c0482232ca5aabb18b2419bb4bbb55a73e59d8",
+  "_shrinkwrap": null,
+  "_spec": "vue-bulma-chartist@^1.1.0",
+  "_where": "/root/Workspace/HTTP-REPORT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/vue-bulma/chartist/issues"
+  },
+  "dependencies": {
+    "chartist": "^0.10.1"
+  },
+  "description": "Chartist component for Vue Bulma",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "12c0482232ca5aabb18b2419bb4bbb55a73e59d8",
+    "tarball": "https://registry.npmjs.org/vue-bulma-chartist/-/vue-bulma-chartist-1.1.0.tgz"
+  },
+  "gitHead": "390ce7caecc9eefa03d92d355746d5cb01e8292c",
+  "homepage": "https://github.com/vue-bulma/chartist#readme",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-chartist",
+    "chartist",
+    "chart"
+  ],
+  "license": "MIT",
+  "main": "src/Chartist.vue",
+  "maintainers": [
+    {
+      "name": "fundon",
+      "email": "cfddream@gmail.com"
+    }
+  ],
+  "name": "vue-bulma-chartist",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "bulma": ">=0.3",
+    "vue": ">=2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-bulma/chartist.git"
+  },
+  "scripts": {},
+  "version": "1.1.0"
+}

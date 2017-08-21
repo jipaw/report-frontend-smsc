@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-bulma-notification@^1.1.1",
+        "scope": null,
+        "escapedName": "vue-bulma-notification",
+        "name": "vue-bulma-notification",
+        "rawSpec": "^1.1.1",
+        "spec": ">=1.1.1 <2.0.0",
+        "type": "range"
+      },
+      "/root/Workspace/HTTP-REPORT"
+    ]
+  ],
+  "_from": "vue-bulma-notification@>=1.1.1 <2.0.0",
+  "_id": "vue-bulma-notification@1.1.1",
+  "_inCache": true,
+  "_location": "/vue-bulma-notification",
+  "_nodeVersion": "7.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/vue-bulma-notification-1.1.1.tgz_1488156485105_0.21347253606654704"
+  },
+  "_npmUser": {
+    "name": "fundon",
+    "email": "cfddream@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-bulma-notification@^1.1.1",
+    "scope": null,
+    "escapedName": "vue-bulma-notification",
+    "name": "vue-bulma-notification",
+    "rawSpec": "^1.1.1",
+    "spec": ">=1.1.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bulma-notification/-/vue-bulma-notification-1.1.1.tgz",
+  "_shasum": "e559763065d53c2755cee73906b4e7010c137512",
+  "_shrinkwrap": null,
+  "_spec": "vue-bulma-notification@^1.1.1",
+  "_where": "/root/Workspace/HTTP-REPORT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/vue-bulma/notification/issues"
+  },
+  "dependencies": {},
+  "description": "Notification component for Vue Bulma",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e559763065d53c2755cee73906b4e7010c137512",
+    "tarball": "https://registry.npmjs.org/vue-bulma-notification/-/vue-bulma-notification-1.1.1.tgz"
+  },
+  "gitHead": "258fff20d44f92ca44c5109df0b09dc5eb47cd90",
+  "homepage": "https://github.com/vue-bulma/notification#readme",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-notification",
+    "notification"
+  ],
+  "license": "MIT",
+  "main": "src/Notification.vue",
+  "maintainers": [
+    {
+      "name": "fundon",
+      "email": "cfddream@gmail.com"
+    }
+  ],
+  "name": "vue-bulma-notification",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "vue": ">=2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-bulma/notification.git"
+  },
+  "scripts": {},
+  "version": "1.1.1"
+}

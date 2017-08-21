@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-bulma-jump@^0.0.2",
+        "scope": null,
+        "escapedName": "vue-bulma-jump",
+        "name": "vue-bulma-jump",
+        "rawSpec": "^0.0.2",
+        "spec": ">=0.0.2 <0.0.3",
+        "type": "range"
+      },
+      "/root/Workspace/HTTP-REPORT"
+    ]
+  ],
+  "_from": "vue-bulma-jump@>=0.0.2 <0.0.3",
+  "_id": "vue-bulma-jump@0.0.2",
+  "_inCache": true,
+  "_location": "/vue-bulma-jump",
+  "_nodeVersion": "7.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/vue-bulma-jump-0.0.2.tgz_1488157523413_0.43375155003741384"
+  },
+  "_npmUser": {
+    "name": "fundon",
+    "email": "cfddream@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-bulma-jump@^0.0.2",
+    "scope": null,
+    "escapedName": "vue-bulma-jump",
+    "name": "vue-bulma-jump",
+    "rawSpec": "^0.0.2",
+    "spec": ">=0.0.2 <0.0.3",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bulma-jump/-/vue-bulma-jump-0.0.2.tgz",
+  "_shasum": "311331581a3ef21c906967c1c9c42e63d643c9fa",
+  "_shrinkwrap": null,
+  "_spec": "vue-bulma-jump@^0.0.2",
+  "_where": "/root/Workspace/HTTP-REPORT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/vue-bulma/jump/issues"
+  },
+  "dependencies": {
+    "jump.js": "^1.0.2"
+  },
+  "description": "Jump component is based on jump.js for Vue Bulma",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "311331581a3ef21c906967c1c9c42e63d643c9fa",
+    "tarball": "https://registry.npmjs.org/vue-bulma-jump/-/vue-bulma-jump-0.0.2.tgz"
+  },
+  "gitHead": "8204783415c393038dae69c19537d49ed2124e7a",
+  "homepage": "https://github.com/vue-bulma/jump#readme",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-jump",
+    "jump",
+    "back-to-top"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "name": "fundon",
+      "email": "cfddream@gmail.com"
+    }
+  ],
+  "name": "vue-bulma-jump",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "vue": ">=2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-bulma/jump.git"
+  },
+  "scripts": {},
+  "version": "0.0.2"
+}

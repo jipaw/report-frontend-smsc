@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-bulma-emoji@^0.0.2",
+        "scope": null,
+        "escapedName": "vue-bulma-emoji",
+        "name": "vue-bulma-emoji",
+        "rawSpec": "^0.0.2",
+        "spec": ">=0.0.2 <0.0.3",
+        "type": "range"
+      },
+      "/root/Workspace/HTTP-REPORT"
+    ]
+  ],
+  "_from": "vue-bulma-emoji@>=0.0.2 <0.0.3",
+  "_id": "vue-bulma-emoji@0.0.2",
+  "_inCache": true,
+  "_location": "/vue-bulma-emoji",
+  "_nodeVersion": "7.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/vue-bulma-emoji-0.0.2.tgz_1488157277508_0.44442880153656006"
+  },
+  "_npmUser": {
+    "name": "fundon",
+    "email": "cfddream@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-bulma-emoji@^0.0.2",
+    "scope": null,
+    "escapedName": "vue-bulma-emoji",
+    "name": "vue-bulma-emoji",
+    "rawSpec": "^0.0.2",
+    "spec": ">=0.0.2 <0.0.3",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bulma-emoji/-/vue-bulma-emoji-0.0.2.tgz",
+  "_shasum": "3df021c91348990ba9127a2566b2e4fc812a2e15",
+  "_shrinkwrap": null,
+  "_spec": "vue-bulma-emoji@^0.0.2",
+  "_where": "/root/Workspace/HTTP-REPORT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/vue-bulma/emoji/issues"
+  },
+  "dependencies": {
+    "emojione": "^2.2.7"
+  },
+  "description": "Emoji component is based on emojione.com for Vue Bulma",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3df021c91348990ba9127a2566b2e4fc812a2e15",
+    "tarball": "https://registry.npmjs.org/vue-bulma-emoji/-/vue-bulma-emoji-0.0.2.tgz"
+  },
+  "gitHead": "46236cca61dce2dcc54eb9d8999a720d81435b68",
+  "homepage": "https://github.com/vue-bulma/emoji#readme",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-emoji",
+    "emojione",
+    "emoji"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "name": "fundon",
+      "email": "cfddream@gmail.com"
+    }
+  ],
+  "name": "vue-bulma-emoji",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "vue": ">=2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-bulma/emoji.git"
+  },
+  "scripts": {},
+  "version": "0.0.2"
+}

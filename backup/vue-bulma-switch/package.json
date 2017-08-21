@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-bulma-switch@^1.0.4",
+        "scope": null,
+        "escapedName": "vue-bulma-switch",
+        "name": "vue-bulma-switch",
+        "rawSpec": "^1.0.4",
+        "spec": ">=1.0.4 <2.0.0",
+        "type": "range"
+      },
+      "/root/Workspace/HTTP-REPORT"
+    ]
+  ],
+  "_from": "vue-bulma-switch@>=1.0.4 <2.0.0",
+  "_id": "vue-bulma-switch@1.0.4",
+  "_inCache": true,
+  "_location": "/vue-bulma-switch",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/vue-bulma-switch-1.0.4.tgz_1486309357710_0.7413053931668401"
+  },
+  "_npmUser": {
+    "name": "fundon",
+    "email": "cfddream@gmail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-bulma-switch@^1.0.4",
+    "scope": null,
+    "escapedName": "vue-bulma-switch",
+    "name": "vue-bulma-switch",
+    "rawSpec": "^1.0.4",
+    "spec": ">=1.0.4 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bulma-switch/-/vue-bulma-switch-1.0.4.tgz",
+  "_shasum": "52e99de5b57baa39b1bc80240b3ae5d43f53c522",
+  "_shrinkwrap": null,
+  "_spec": "vue-bulma-switch@^1.0.4",
+  "_where": "/root/Workspace/HTTP-REPORT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/vue-bulma/switch/issues"
+  },
+  "dependencies": {},
+  "description": "Switch component for Vue Bulma",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "52e99de5b57baa39b1bc80240b3ae5d43f53c522",
+    "tarball": "https://registry.npmjs.org/vue-bulma-switch/-/vue-bulma-switch-1.0.4.tgz"
+  },
+  "gitHead": "2b1dd0da1bd2f02e24637be1f7e4917b0edfe802",
+  "homepage": "https://github.com/vue-bulma/switch#readme",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-switch",
+    "switch"
+  ],
+  "license": "MIT",
+  "main": "src/Switch.vue",
+  "maintainers": [
+    {
+      "name": "fundon",
+      "email": "cfddream@gmail.com"
+    }
+  ],
+  "name": "vue-bulma-switch",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "vue": ">=2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-bulma/switch.git"
+  },
+  "scripts": {},
+  "version": "1.0.4"
+}
